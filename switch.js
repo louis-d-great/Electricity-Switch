@@ -9,7 +9,7 @@ light.addEventListener("click", function(){
 
     setTimeout(function(){
         alert("UP NEPA!");    
-    }, 1000)
+    }, 1000);
 });
 
 darkness.addEventListener("click", function(){
