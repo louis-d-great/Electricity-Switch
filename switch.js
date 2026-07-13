@@ -9,7 +9,7 @@ light.addEventListener("click", function(){
     if (isBulbOn === false){
         bulb.src = "Images/on bulb.png"
         bulb.style.width = "230px"
-        light.style.backgroundColor = "yellow"
+        light.style.backgroundColor = "yellow";
 
         isBulbOn = true;
 
